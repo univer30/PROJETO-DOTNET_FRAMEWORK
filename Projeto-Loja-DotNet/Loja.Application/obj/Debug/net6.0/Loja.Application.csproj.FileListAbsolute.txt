@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Loja\Loja.Application\bin\Debug\net6.0\Loja.Application.deps.json
+C:\Users\Thiago\Desktop\Loja\Loja.Application\bin\Debug\net6.0\Loja.Application.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Application\bin\Debug\net6.0\Loja.Application.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Application\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Application\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\refint\Loja.Application.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\Loja.Application.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Application\obj\Debug\net6.0\ref\Loja.Application.dll

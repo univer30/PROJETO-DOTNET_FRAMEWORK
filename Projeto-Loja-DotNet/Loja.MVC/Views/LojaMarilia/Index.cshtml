@@ -1,0 +1,22 @@
+@model Loja.Application.ViewModels.LojaMariliaViewModel
+
+
+<table id="lojaMarilia" class=" table table-bordered table-hover">
+    <thead>
+     <tr class="">
+        <th>Nome</th>
+        <th>Categoria</th>
+        <th>Cidade</th>
+     </tr>
+    </thead>
+    <tbody>
+        @foreach( var lojaMarilia in Model.LojaMarilias){
+        <tr style="height: 60px;">
+            <td>@lojaMarilia.nome</td>
+            <td>@lojaMarilia.categoria</td>
+            <td>@lojaMarilia.cidade</td>
+        </tr>
+        }
+    </tbody>
+
+</table>

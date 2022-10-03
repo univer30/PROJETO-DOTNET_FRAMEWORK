@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.deps.json
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\refint\Loja.Infra.Data.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\ref\Loja.Infra.Data.dll
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.runtimeconfig.json
+C:\Users\Thiago\Desktop\Loja\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.genruntimeconfig.cache
